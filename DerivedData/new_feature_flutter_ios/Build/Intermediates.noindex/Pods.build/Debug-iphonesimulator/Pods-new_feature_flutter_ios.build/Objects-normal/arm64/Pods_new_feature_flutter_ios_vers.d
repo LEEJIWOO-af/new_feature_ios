@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-new_feature_flutter_ios.build/module.modulemap \
+  /Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-new_feature_flutter_ios.build/DerivedSources/Pods_new_feature_flutter_ios_vers.c

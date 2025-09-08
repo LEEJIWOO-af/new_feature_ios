@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd420eb3705e9e04386ff26289cf4a880adf"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4262651753eb94c7b7398235b86c88cc4a"
+    },
+    {
+      "guid" : "e9fa5cc296d45a21d01f93926e6998efd26bb8b15564119946cbddc6d0726cdb"
+    },
+    {
+      "guid" : "e9fa5cc296d45a21d01f93926e6998efc63a4a9b0af956b3826b21c4e31a9ded"
+    },
+    {
+      "guid" : "e9fa5cc296d45a21d01f93926e6998ef8011c838aec81a67be0717a86cf5606a"
+    }
+  ],
+  "containerPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_ios.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Build/Products",
+      "pchPath" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

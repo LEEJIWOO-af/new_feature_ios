@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosTests.build/Objects-normal/arm64/new_feature_flutter_iosTests-master.d",
+    "diagnostics" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosTests.build/Objects-normal/arm64/new_feature_flutter_iosTests-master.dia",
+    "emit-module-dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosTests.build/Objects-normal/arm64/new_feature_flutter_iosTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosTests.build/Objects-normal/arm64/new_feature_flutter_iosTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosTests.build/Objects-normal/arm64/new_feature_flutter_iosTests-master.swiftdeps"
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_iosTests/new_feature_flutter_iosTests.swift" : {
+
+  }
+}

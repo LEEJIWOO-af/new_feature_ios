@@ -1,0 +1,19 @@
+Target dependency graph (8 targets)
+Target 'new_feature_flutter_ios' in project 'new_feature_flutter_ios'
+➜ Implicit dependency on target 'Pods-new_feature_flutter_ios' in project 'Pods' via file 'Pods_new_feature_flutter_ios.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'FlutterPluginRegistrant' in project 'Pods' via options '-framework FlutterPluginRegistrant' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-new_feature_flutter_ios' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'FlutterPluginRegistrant' in project 'Pods'
+Target 'FlutterPluginRegistrant' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'Flutter' in project 'Pods' (no dependencies)
+Target 'new_feature_flutter_ios' in project 'new_feature_flutter_ios'
+➜ Implicit dependency on target 'Pods-new_feature_flutter_ios' in project 'Pods' via file 'Pods_new_feature_flutter_ios.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'FlutterPluginRegistrant' in project 'Pods' via options '-framework FlutterPluginRegistrant' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-new_feature_flutter_ios' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'FlutterPluginRegistrant' in project 'Pods'
+Target 'FlutterPluginRegistrant' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'Flutter' in project 'Pods' (no dependencies)

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1620"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES"
+      buildArchitectures = "Automatic">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6F23CA5E2E45F3C8006B9C9D"
+               BuildableName = "new_feature_flutter_ios.app"
+               BlueprintName = "new_feature_flutter_ios"
+               ReferencedContainer = "container:new_feature_flutter_ios.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      customLLDBInitFile = "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_module/.ios/Flutter/ephemeral/flutter_lldbinit"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      shouldAutocreateTestPlan = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6F23CA742E45F3CE006B9C9D"
+               BuildableName = "new_feature_flutter_iosTests.xctest"
+               BlueprintName = "new_feature_flutter_iosTests"
+               ReferencedContainer = "container:new_feature_flutter_ios.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6F23CA7E2E45F3CE006B9C9D"
+               BuildableName = "new_feature_flutter_iosUITests.xctest"
+               BlueprintName = "new_feature_flutter_iosUITests"
+               ReferencedContainer = "container:new_feature_flutter_ios.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      customLLDBInitFile = "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_module/.ios/Flutter/ephemeral/flutter_lldbinit"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6F23CA5E2E45F3C8006B9C9D"
+            BuildableName = "new_feature_flutter_ios.app"
+            BlueprintName = "new_feature_flutter_ios"
+            ReferencedContainer = "container:new_feature_flutter_ios.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6F23CA5E2E45F3C8006B9C9D"
+            BuildableName = "new_feature_flutter_ios.app"
+            BlueprintName = "new_feature_flutter_ios"
+            ReferencedContainer = "container:new_feature_flutter_ios.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

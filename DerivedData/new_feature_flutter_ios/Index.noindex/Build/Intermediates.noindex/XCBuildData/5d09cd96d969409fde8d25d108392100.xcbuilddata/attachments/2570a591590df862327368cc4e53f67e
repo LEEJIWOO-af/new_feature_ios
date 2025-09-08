@@ -1,0 +1,24 @@
+{
+  "" : {
+    "dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_ios.build/Objects-normal/arm64/new_feature_flutter_ios-master.d",
+    "diagnostics" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_ios.build/Objects-normal/arm64/new_feature_flutter_ios-master.dia",
+    "emit-module-dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_ios.build/Objects-normal/arm64/new_feature_flutter_ios-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_ios.build/Objects-normal/arm64/new_feature_flutter_ios-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_ios.build/Objects-normal/arm64/new_feature_flutter_ios-master.swiftdeps"
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_ios.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_ios/AppDelegate.swift" : {
+
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_ios/Models/UserInfo.swift" : {
+
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_ios/SceneDelegate.swift" : {
+
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_ios/ViewController.swift" : {
+
+  }
+}
