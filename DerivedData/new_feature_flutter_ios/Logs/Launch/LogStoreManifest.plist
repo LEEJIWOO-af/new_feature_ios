@@ -6,6 +6,128 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>1A4070D0-9905-4948-B61A-31624FD16B93</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A4709D8B-4F05-4846-BCC2-97852CC43048</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>8</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-new_feature_flutter_ios-2025.09.17_13-27-34-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>7</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>new_feature_flutter_ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>new_feature_flutter_ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run new_feature_flutter_ios</string>
+			<key>timeStartedRecording</key>
+			<real>779776054.40683603</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run new_feature_flutter_ios</string>
+			<key>uniqueIdentifier</key>
+			<string>1A4070D0-9905-4948-B61A-31624FD16B93</string>
+		</dict>
+		<key>3FD8699D-6571-41DF-B555-9B090A0D53AE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BD2F52EF-3F83-4B11-8246-CF3C0CA14160</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>9</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-new_feature_flutter_ios-2025.09.17_13-30-27-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>8</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>new_feature_flutter_ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>new_feature_flutter_ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run new_feature_flutter_ios</string>
+			<key>timeStartedRecording</key>
+			<real>779776227.32571697</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run new_feature_flutter_ios</string>
+			<key>uniqueIdentifier</key>
+			<string>3FD8699D-6571-41DF-B555-9B090A0D53AE</string>
+		</dict>
 		<key>75D12900-1920-41F7-A5B6-81B77E9A19F5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>

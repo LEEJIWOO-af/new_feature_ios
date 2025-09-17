@@ -6,7 +6,6 @@ struct UserInfo {
     let email: String
     let profilePictureUrl: String?
     
-    // Android의 toMap()과 동일한 기능
     func toMap() -> [String: Any?] {
         return [
             "id": id,
@@ -16,7 +15,6 @@ struct UserInfo {
         ]
     }
     
-    // Android의 getDummyUserList()와 동일한 더미 데이터
     static func getDummyUserList() -> [UserInfo] {
         return [
             UserInfo(id: "1", name: "John Doe", email: "john.doe@example.com", profilePictureUrl: "https://example.com/profile/john.jpg"),

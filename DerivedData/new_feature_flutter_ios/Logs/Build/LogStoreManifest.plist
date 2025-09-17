@@ -90,6 +90,48 @@
 			<key>uniqueIdentifier</key>
 			<string>A4709D8B-4F05-4846-BCC2-97852CC43048</string>
 		</dict>
+		<key>BD2F52EF-3F83-4B11-8246-CF3C0CA14160</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD2F52EF-3F83-4B11-8246-CF3C0CA14160.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>9</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>new_feature_flutter_ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>new_feature_flutter_ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build new_feature_flutter_ios</string>
+			<key>timeStartedRecording</key>
+			<real>779776227.32878399</real>
+			<key>timeStoppedRecording</key>
+			<real>779776242.97805703</real>
+			<key>title</key>
+			<string>Build new_feature_flutter_ios</string>
+			<key>uniqueIdentifier</key>
+			<string>BD2F52EF-3F83-4B11-8246-CF3C0CA14160</string>
+		</dict>
 		<key>E1A9BB7A-DFF3-481B-8ABA-6FEA59EF6184</key>
 		<dict>
 			<key>className</key>

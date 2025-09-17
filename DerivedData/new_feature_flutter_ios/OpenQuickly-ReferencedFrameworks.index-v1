@@ -2,14 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>Foundation</string>
 	<string>XCTest</string>
+	<string>new</string>
 	<string>Flutter</string>
+	<string>FlutterMacOS</string>
 	<string>Testing</string>
 	<string>package</string>
 	<string>geolocator</string>
 	<string>FlutterPluginRegistrant</string>
 	<string>UIKit</string>
-	<string>new</string>
+	<string>CoreLocation</string>
+	<string>Foundation</string>
 </array>
 </plist>
