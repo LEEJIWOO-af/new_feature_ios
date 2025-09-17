@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosUITests.build/Objects-normal/arm64/new_feature_flutter_iosUITests-master.d",
+    "diagnostics" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosUITests.build/Objects-normal/arm64/new_feature_flutter_iosUITests-master.dia",
+    "emit-module-dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosUITests.build/Objects-normal/arm64/new_feature_flutter_iosUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosUITests.build/Objects-normal/arm64/new_feature_flutter_iosUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Index.noindex/Build/Intermediates.noindex/new_feature_flutter_ios.build/Debug-iphoneos/new_feature_flutter_iosUITests.build/Objects-normal/arm64/new_feature_flutter_iosUITests-master.swiftdeps"
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_iosUITests/new_feature_flutter_iosUITests.swift" : {
+
+  },
+  "/Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/new_feature_flutter_iosUITests/new_feature_flutter_iosUITestsLaunchTests.swift" : {
+
+  }
+}

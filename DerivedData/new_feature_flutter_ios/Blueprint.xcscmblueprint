@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "72E54F7B179C70EACF5549B10195B34593F0F07E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "773E48151C9F89B5B41E56EB8A78DB5204A3C2C6" : 0,
+    "72E54F7B179C70EACF5549B10195B34593F0F07E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "593C7DCA-C60E-4CE9-84FC-108100640E3A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "773E48151C9F89B5B41E56EB8A78DB5204A3C2C6" : "new_feature_flutter_module\/",
+    "72E54F7B179C70EACF5549B10195B34593F0F07E" : "new_feature_flutter_ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "new_feature_flutter_ios",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "new_feature_flutter_ios.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:LEEJIWOO-af\/new_feature_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72E54F7B179C70EACF5549B10195B34593F0F07E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:LEEJIWOO-af\/new_feature_flutter_module.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "773E48151C9F89B5B41E56EB8A78DB5204A3C2C6"
+    }
+  ]
+}

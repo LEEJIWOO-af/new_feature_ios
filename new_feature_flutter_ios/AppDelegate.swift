@@ -4,7 +4,6 @@ import FlutterPluginRegistrant
 
 @main
 class AppDelegate: FlutterAppDelegate {
-    // 공식 가이드와 동일한 단순한 방식
     lazy var flutterEngine = FlutterEngine(name: "my flutter engine")
     
     override func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {

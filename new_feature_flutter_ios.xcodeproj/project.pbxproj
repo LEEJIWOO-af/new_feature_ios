@@ -57,11 +57,15 @@
 		};
 		6F23CA782E45F3CE006B9C9D /* new_feature_flutter_iosTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = new_feature_flutter_iosTests;
 			sourceTree = "<group>";
 		};
 		6F23CA822E45F3CE006B9C9D /* new_feature_flutter_iosUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = new_feature_flutter_iosUITests;
 			sourceTree = "<group>";
 		};
@@ -145,6 +149,7 @@
 				6F23CA5C2E45F3C8006B9C9D /* Frameworks */,
 				6F23CA5D2E45F3C8006B9C9D /* Resources */,
 				51E7A229BACF0C165F1C5AD3 /* [CP-User] Embed Flutter Build new_feature_flutter_module Script */,
+				44B8F7AFA4A3BF98B2B53041 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -269,6 +274,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		44B8F7AFA4A3BF98B2B53041 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-new_feature_flutter_ios/Pods-new_feature_flutter_ios-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-new_feature_flutter_ios/Pods-new_feature_flutter_ios-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-new_feature_flutter_ios/Pods-new_feature_flutter_ios-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		51E7A229BACF0C165F1C5AD3 /* [CP-User] Embed Flutter Build new_feature_flutter_module Script */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

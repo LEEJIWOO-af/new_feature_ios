@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/DerivedData/new_feature_flutter_ios/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/geolocator_apple.build/module.modulemap \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/GeolocatorPlugin.m \
+  /Users/jiwoo_lee/AndroidStudioProjects/new_feature_test/new_feature_flutter_ios/Pods/Target\ Support\ Files/geolocator_apple/geolocator_apple-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/CoreLocation.framework/Modules/module.modulemap \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/GeolocatorPlugin.h \
+  /opt/homebrew/Caskroom/flutter/3.32.6/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/GeolocatorPlugin_Test.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/include/geolocator_apple/Handlers/GeolocationHandler.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/include/geolocator_apple/Handlers/LocationAccuracyHandler.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/include/geolocator_apple/Handlers/PermissionHandler.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Constants/ErrorCodes.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Handlers/PositionStreamHandler.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Utils/ActivityTypeMapper.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Utils/AuthorizationStatusMapper.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Utils/LocationAccuracyMapper.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Utils/LocationDistanceMapper.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Utils/LocationMapper.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Utils/PermissionUtils.h \
+  /Users/jiwoo_lee/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.13/darwin/geolocator_apple/Sources/geolocator_apple/./include/geolocator_apple/Handlers/LocationServiceStreamHandler.h

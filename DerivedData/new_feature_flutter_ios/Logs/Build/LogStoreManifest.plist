@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>89DCD22C-1196-4A4A-90F6-086CA91862F9</key>
+		<key>007B61A9-F116-4954-8097-CAB440B66678</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,49 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>89DCD22C-1196-4A4A-90F6-086CA91862F9.xcactivitylog</string>
+			<string>007B61A9-F116-4954-8097-CAB440B66678.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>new_feature_flutter_ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>new_feature_flutter_ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build new_feature_flutter_ios</string>
+			<key>timeStartedRecording</key>
+			<real>779775950.21359396</real>
+			<key>timeStoppedRecording</key>
+			<real>779775959.22547305</real>
+			<key>title</key>
+			<string>Build new_feature_flutter_ios</string>
+			<key>uniqueIdentifier</key>
+			<string>007B61A9-F116-4954-8097-CAB440B66678</string>
+		</dict>
+		<key>A4709D8B-4F05-4846-BCC2-97852CC43048</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4709D8B-4F05-4846-BCC2-97852CC43048.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -29,7 +71,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>2</integer>
+				<integer>8</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>new_feature_flutter_ios project</string>
@@ -40,13 +82,55 @@
 			<key>signature</key>
 			<string>Build new_feature_flutter_ios</string>
 			<key>timeStartedRecording</key>
-			<real>776743035.18975198</real>
+			<real>779776054.40778303</real>
 			<key>timeStoppedRecording</key>
-			<real>776743053.29339194</real>
+			<real>779776090.52691805</real>
 			<key>title</key>
 			<string>Build new_feature_flutter_ios</string>
 			<key>uniqueIdentifier</key>
-			<string>89DCD22C-1196-4A4A-90F6-086CA91862F9</string>
+			<string>A4709D8B-4F05-4846-BCC2-97852CC43048</string>
+		</dict>
+		<key>E1A9BB7A-DFF3-481B-8ABA-6FEA59EF6184</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1A9BB7A-DFF3-481B-8ABA-6FEA59EF6184.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>new_feature_flutter_ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>new_feature_flutter_ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build new_feature_flutter_ios</string>
+			<key>timeStartedRecording</key>
+			<real>779775766.09556496</real>
+			<key>timeStoppedRecording</key>
+			<real>779775766.45890105</real>
+			<key>title</key>
+			<string>Build new_feature_flutter_ios</string>
+			<key>uniqueIdentifier</key>
+			<string>E1A9BB7A-DFF3-481B-8ABA-6FEA59EF6184</string>
 		</dict>
 	</dict>
 </dict>

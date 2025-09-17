@@ -2,20 +2,35 @@ PODS:
   - Flutter (1.0.0)
   - FlutterPluginRegistrant (0.0.1):
     - Flutter
+    - geolocator_apple
+    - package_info_plus
+  - geolocator_apple (1.2.0):
+    - Flutter
+    - FlutterMacOS
+  - package_info_plus (0.4.5):
+    - Flutter
 
 DEPENDENCIES:
   - Flutter (from `../new_feature_flutter_module/.ios/Flutter`)
   - FlutterPluginRegistrant (from `../new_feature_flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - geolocator_apple (from `../new_feature_flutter_module/.ios/.symlinks/plugins/geolocator_apple/darwin`)
+  - package_info_plus (from `../new_feature_flutter_module/.ios/.symlinks/plugins/package_info_plus/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: "../new_feature_flutter_module/.ios/Flutter"
   FlutterPluginRegistrant:
     :path: "../new_feature_flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+  geolocator_apple:
+    :path: "../new_feature_flutter_module/.ios/.symlinks/plugins/geolocator_apple/darwin"
+  package_info_plus:
+    :path: "../new_feature_flutter_module/.ios/.symlinks/plugins/package_info_plus/ios"
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  FlutterPluginRegistrant: 31c463909264601dccf8080d30b71b19413ad188
+  FlutterPluginRegistrant: fd54ab42feeb40d9700a9de25fafd801cf9fa043
+  geolocator_apple: ab36aa0e8b7d7a2d7639b3b4e48308394e8cef5e
+  package_info_plus: af8e2ca6888548050f16fa2f1938db7b5a5df499
 
 PODFILE CHECKSUM: 432e8a107fe0f482560bc6390a6463f7ae74beec
 

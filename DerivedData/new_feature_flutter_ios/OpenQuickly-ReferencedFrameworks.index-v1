@@ -3,11 +3,13 @@
 <plist version="1.0">
 <array>
 	<string>Foundation</string>
-	<string>FlutterPluginRegistrant</string>
-	<string>Testing</string>
-	<string>new</string>
-	<string>Flutter</string>
-	<string>UIKit</string>
 	<string>XCTest</string>
+	<string>Flutter</string>
+	<string>Testing</string>
+	<string>package</string>
+	<string>geolocator</string>
+	<string>FlutterPluginRegistrant</string>
+	<string>UIKit</string>
+	<string>new</string>
 </array>
 </plist>
